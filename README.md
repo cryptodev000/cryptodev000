@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [BlockchainTopDev](https://t.me/blockchaintopdev)  
+### Hey 👋🏽, I'm [blockchaintopdev](https://t.me/blockchaintopdev)  
 
 <br/>
 
@@ -48,9 +48,9 @@ If you work with me, you will get full support for success of your project(idea)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![BlockchainTopDev's github stats](https://github-readme-stats.vercel.app/api?username=BlockchainTopDev&show_icons=true&theme=radical)
+![blockchaintopdev's github stats](https://github-readme-stats.vercel.app/api?username=BlockchainTopDev&show_icons=true&theme=radical)
 
 
 
 
-⭐️ From [BlockchainTopDev](https://github.com/BlockchainTopDev)
+⭐️ From [blockchaintopdev](https://github.com/blockchaintopdev)
