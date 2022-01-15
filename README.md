@@ -28,7 +28,6 @@ If you work with me, you will get full support for success of your project(idea)
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
-- 🌱 I’m currently learning Cloud Computing
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
