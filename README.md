@@ -33,7 +33,6 @@ If you work with me, you will get full support for success of your project(idea)
 
 **Connect with me:**
 - 💬 Telegram : [@blockchaintopdev](https://t.me/blockchaintopdev)
-- 📝 skype : live:.cid.703f024c7f48a0af
 
 **Languages and Tools:**   
 
