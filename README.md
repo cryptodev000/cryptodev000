@@ -16,8 +16,8 @@ I am a senior blockchain developer with rich experiences.
 ✅Creation Presale site<br/>
 ✅Creation Smart contracts<br/>
 (BEP20 token, ERC20 token, Presale contract, and so on)
-####      ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Baked%20Beans-yellowgreen)<br/>
-![](https://img.shields.io/badge/%E2%9C%85-Forking%20Titano/Safuu-yellow)<br/>
+####![](https://img.shields.io/badge/%E2%9C%85-Forking%20Baked%20Beans%20%20-yellow)<br/>
+![](https://img.shields.io/badge/%E2%9C%85-Forking%20Titano/Safuu-blue)<br/>
 ![](https://img.shields.io/badge/%E2%9C%85-Forking%20OlympusDao-green)<br/>
 ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Pancakeswap-brightgreen)<br/>
 ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Presale%20site-blue)<br/>
