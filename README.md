@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [cryptotopdev](https://t.me/blockchaintopdev)  
+### Hey 👋🏽, I'm [cryptotopdev](https://t.me/cryptotopdev)  
 
 <br/>
 
@@ -35,7 +35,7 @@ If you work with me, you will get full support for success of your project(idea)
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@blockchaintopdev](https://t.me/blockchaintopdev)
+- 💬 Telegram : [@cryptotopdev](https://t.me/cryptotopdev)
 
 **Languages and Tools:**   
 
@@ -54,4 +54,4 @@ If you work with me, you will get full support for success of your project(idea)
 
 
 
-⭐️ From [blockchaintopdev](https://github.com/blockchaintopdev)
+⭐️ From [cryptotopdev](https://github.com/cryptotopdev)
