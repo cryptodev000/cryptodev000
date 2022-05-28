@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [cryptotopdev](https://t.me/cryptotopdev)  
+### Hey 👋🏽, I'm [CryptoTopDev](https://t.me/cryptotopdev)  
 
 <br/>
 
@@ -50,7 +50,7 @@ If you work with me, you will get full support for success of your project(idea)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![blockchaintopdev's github stats](https://github-readme-stats.vercel.app/api?username=BlockchainTopDev&show_icons=true&theme=radical)
+![cryptotopdev's github stats](https://github-readme-stats.vercel.app/api?username=CryptoTopDev&show_icons=true&theme=radical)
 
 
 
